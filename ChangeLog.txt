@@ -1,0 +1,5 @@
+Added - Movable Paper Doll
+
+Added - Real Texture Armor Hud
+
+Added - 1.17.2 Support
