@@ -1,5 +1,8 @@
-Added - Movable Paper Doll
-
-Added - Real Texture Armor Hud
-
-Added - 1.17.2 Support
+Added Custom Crosshair
+Added Back Render Options
+Added Waypoints 
+Added Hitboxes
+Added Theme Editor
+Added Weather Changer
+Added 1.17.10 Support
+General Bug Fixes and Module Improvments
