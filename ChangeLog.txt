@@ -5,4 +5,4 @@ Added Hitboxes
 Added Theme Editor
 Added Weather Changer
 Added 1.17.10 Support
-General Bug Fixes and Module Improvments
+General Bug Fixes
