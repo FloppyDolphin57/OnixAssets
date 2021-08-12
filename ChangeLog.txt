@@ -1,8 +1,8 @@
-Added Custom Crosshair
-Added Back Render Options
-Added Waypoints 
-Added Hitboxes
-Added Theme Editor
-Added Weather Changer
-Added 1.17.10 Support
-General Bug Fixes
+Added Potion Hud
+Added Audio Subtitles
+Added Player List Tab
+Added Java Debug Menu Crosshair
+Added Cheap Glint to Armor Hud
+Added Better Arrows to Keystrokes
+Added 1.17.11 Support
+Bug Fixes and Improvements
