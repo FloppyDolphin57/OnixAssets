@@ -1,8 +1,10 @@
-Added Potion Hud
-Added Audio Subtitles
-Added Player List Tab
-Added Java Debug Menu Crosshair
-Added Cheap Glint to Armor Hud
-Added Better Arrows to Keystrokes
-Added 1.17.11 Support
-Bug Fixes and Improvements
+Added cloud color in environement changer
+Added light level to debug menu
+Keystrokes arrow are now smaller
+Removed fullbright on nethergames
+Added hurt color
+Added Light overlay
+Added Creative Tools
+(cheats that you can use when you are operator)
+Removed hitboxes for 1.17.30
+Added TNT Timer for 1.17.11 and less
