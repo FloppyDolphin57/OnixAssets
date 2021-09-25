@@ -1,10 +1,9 @@
-Added cloud color in environement changer
-Added light level to debug menu
-Keystrokes arrow are now smaller
-Removed fullbright on nethergames
-Added hurt color
+Added Cloud Color Changer
+Added Light Level to Debug Menu
+Keystrokes Arrow are Now Smaller
+Removed Fullbright on Nethergames
+Added Hurt Color
 Added Light overlay
 Added Creative Tools
-(cheats that you can use when you are operator)
-Removed hitboxes for 1.17.30
+Removed Hitboxes for 1.17.30
 Added TNT Timer for 1.17.11 and less
