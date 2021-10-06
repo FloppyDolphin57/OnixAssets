@@ -1,9 +1,7 @@
-Fixed Waypoints Bug
-Fixed Death Waypoint for 1.17.30
-Fixed AutoGG for 1.17.10
-Fixed Hurt Color Bug
-Fixed Creative Tools Block Reach
-Added Hitboxes for 1.17.30/32
-Added TNT timer 1.17.30/32
-Added Item Physics
-Added 1.17.32 support
+Improved Item Physics
+Fixed a Major UI Bug
+Fixed Item Physics Bugs
+Fixed Freecam Bug
+Fixed Waypoint Bug
+Fixed Zoom Bug
+Added support for 1.17.34
