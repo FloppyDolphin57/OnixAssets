@@ -1,5 +1,3 @@
-Remade module system
-Remade .toggle command
 Improved color changers
 Fixed Waypoints Bug
 Fixed CreativeTools Freecam
