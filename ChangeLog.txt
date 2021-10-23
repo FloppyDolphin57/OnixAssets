@@ -1,7 +1,10 @@
-Improved Item Physics
-Fixed a Major UI Bug
-Fixed Item Physics Bugs
-Fixed Freecam Bug
-Fixed Waypoint Bug
-Fixed Zoom Bug
-Added support for 1.17.34
+Remade module system
+Remade .toggle command
+Improved color changers
+Fixed Waypoints Bug
+Fixed CreativeTools Freecam
+Fixed HurtColor Bug
+Fixed Config Bug
+Added Target Block to Debug Menu
+Added Brewing Guide
+Added 1.17.40 support
