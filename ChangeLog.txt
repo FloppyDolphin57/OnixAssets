@@ -1,8 +1,4 @@
-Improved color changers
-Fixed Waypoints Bug
-Fixed CreativeTools Freecam
-Fixed HurtColor Bug
-Fixed Config Bug
-Added Target Block to Debug Menu
-Added Brewing Guide
-Added 1.17.40 support
+Mini Update
+
+-Added Search Bar
+-Added 1.17.41 Support
